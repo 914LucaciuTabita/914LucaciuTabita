@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  #✨Lucaciu Tabita Semida✨
+  <div id="name">
+    <h1>✨Lucaciu Tabita Semida✨</h1>
+  </div>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlmODQyNGQwOGRhMjFlZWFhNDUzMGYwYzFmMmFhMzM2ZDFhMjkwNiZjdD1z/SHjOSDkKZ18qOHA5B5/giphy.gif" width="180"/>
     <div id="badges">
     <a href="https://www.linkedin.com/in/tabita-lucaciu-24096a194/">
