@@ -14,12 +14,15 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFhYmY0NWRjMzMwNjgwYjA2MWRjZDNmMTBhNDA3ODNiOGYwZWY3ZCZjdD1n/WRRL1EKo9rNe12S4zh/giphy.gif" width="500"/>
+  <!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFhYmY0NWRjMzMwNjgwYjA2MWRjZDNmMTBhNDA3ODNiOGYwZWY3ZCZjdD1n/WRRL1EKo9rNe12S4zh/giphy.gif" width="500"/>-->
 </div>
 
 ---
 
 ### :woman_technologist: About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+Hello and welcome! I'm delighted to introduce myself as a second-year computer science student at Babes-Bolyai University. I am a creative individual with a keen interest in technology, logic, mental challenges, psychology, cooking, fashion, socializing, and nature adventures/trips. My curiosity and love for experiencing new things have led me to explore diverse roles, including being a financial consultant and a computer science trainer. With a passion for learning and an adventurous spirit, I'm always excited to embark on new challenges and discover new possibilities in various fields.
 
 <!--
 **914LucaciuTabita/914LucaciuTabita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
