@@ -14,6 +14,7 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
+  <img src="https://giphy.com/gifs/anime-cat-lo-fi-WRRL1EKo9rNe12S4zh" width="250"/>
 </div>
 
 ---
