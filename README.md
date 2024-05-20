@@ -78,7 +78,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;  
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg](https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg)" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp; 
 </div>
   <!--
 **914LucaciuTabita/914LucaciuTabita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
