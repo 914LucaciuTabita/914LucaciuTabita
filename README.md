@@ -22,7 +22,7 @@
 ### :woman_technologist: About Me :
 
 - 👋Hello and welcome!<br>
-- 🙋‍♀️I'm delighted to introduce myself as a 3rd year Computer Science student at Babeș-Bolyai University Cluj-Napoca.<br>
+- 🙋‍♀️I'm delighted to introduce myself as a Computer Science graduate at Babeș-Bolyai University Cluj-Napoca and currently pursuing a Master's in Applied Computational Intelligence.<br>
 - 💡🧁I am a creative individual with a keen interest in technology, logic, mental challenges, psychology, cooking, fashion, socializing, and nature adventures/trips.<br>
 - 📈My curiosity and love for experiencing new things have led me to explore diverse roles, including being a financial consultant and a computer science trainer.<br>
 - 📘👩‍🎓With a passion for learning and an adventurous spirit, I'm always excited to embark on new challenges and discover new possibilities in various fields.<br>
